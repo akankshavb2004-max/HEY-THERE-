@@ -33,7 +33,6 @@ body {
     display: flex;
     gap: 25px;
 }
-
 .btn a {
     text-decoration: none;
     color: #111;
